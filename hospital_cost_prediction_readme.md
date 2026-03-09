@@ -173,24 +173,6 @@ Key ethical considerations highlighted by this project include:
 
 Poorly validated models can lead to incorrect predictions that may influence healthcare decision-making.
 
----
-
-## Repository Structure
-
-hospital-cost-prediction-ml/
-│
-├── healthcare_project_cleaned.ipynb
-├── README.md
-│
-├── figures/
-│   ├── billing_distribution.png
-│   ├── roc_leaky_highbilling.png
-│   ├── feature_importance_leaky.png
-│   ├── roc_corrected_highbilling.png
-│   └── confusion_matrix_emergency.png
-│
-└── data/
-    └── healthcare_dataset.csv
 
 ---
 
